@@ -1,0 +1,13 @@
+name: twenty
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/5643c2a0-0fe5-4a6a-97b9-a05a55a1d5d3
+description: Building a modern alternative to Salesforce, powered by the community.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
